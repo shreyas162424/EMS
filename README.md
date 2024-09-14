@@ -19,7 +19,7 @@ The following **required** functionality is complete:
 ## Images
 
 ### Login Page 
-	https://github.com/shreyas162424/Images/blob/main/Screenshot%202024-07-29%20032149.png?raw=true
+	![Screenshot 2024-07-29 032149](https://github.com/user-attachments/assets/e9be35ea-4213-48ac-85b2-7b904b33c153)
 
 ### Slpash Page
 
