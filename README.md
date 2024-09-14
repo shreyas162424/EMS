@@ -19,23 +19,34 @@ The following **required** functionality is complete:
 ## Images
 
 ### Login Page 
-	![Screenshot 2024-07-29 032149](https://github.com/user-attachments/assets/e9be35ea-4213-48ac-85b2-7b904b33c153)
+
+![Login Page](https://github.com/shreyas162424/EMS/blob/main/Screenshot%202024-07-29%20032149.png?raw=true)
 
 ### Slpash Page
 
-	https://github.com/shreyas162424/Images/blob/main/Screenshot%202024-07-29%20032018.png?raw=true
+![Splash Page](https://github.com/shreyas162424/EMS/blob/main/Screenshot%202024-07-29%20032018.png?raw=true)
 
 ### Home Page
-	https://github.com/shreyas162424/Images/blob/main/home.png?raw=true
+
+![Home Page](https://github.com/shreyas162424/EMS/blob/main/home.png?raw=true)
 
 ### Add Employee Page
-	https://github.com/shreyas162424/Images/blob/main/add.png?raw=true
+
+![Add Page](https://github.com/shreyas162424/EMS/blob/main/add.png?raw=true)
 
 ### View Employee Page
-	https://github.com/shreyas162424/Images/blob/main/view.png?raw=true
+
+![View Page](https://github.com/shreyas162424/EMS/blob/main/view.png?raw=true)
 
 ### Update Employee Page
-	https://github.com/shreyas162424/Images/blob/main/Screenshot%202024-07-29%20053425.png?raw=true
+
+ ![Update page](https://github.com/shreyas162424/EMS/blob/main/Screenshot%202024-07-29%20053425.png?raw=true)
 
 ### Remove Employee
-	https://github.com/shreyas162424/Images/blob/main/Screenshot%202024-07-29%20053520.png?raw=true
+	
+![Remove Page](https://github.com/shreyas162424/EMS/blob/main/Screenshot%202024-07-29%20053520.png?raw=true)
+
+### MySQL Database Tables
+![](https://github.com/shreyas162424/EMS/blob/main/Screenshot%202024-07-29%20051935.png?raw=tru)
+
+![](https://github.com/shreyas162424/EMS/blob/main/Screenshot%202024-07-29%20053718.png?raw=true)
