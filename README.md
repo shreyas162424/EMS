@@ -10,11 +10,11 @@ Time Spent: **48** hours spent in total.
 
 The following **required** functionality is complete: 
 
-*[x] Admin can Add Employee Details
-*[x] Admin can View Employee Details
-*[x] Admin can Update Employee Details
-*[x] Admin can Remove Employee Details
-*[x] Admin can search for an Employee Details using the Auto Random Generated Employee ID unique to all.
+* [x] Admin can Add Employee Details
+* [x] Admin can View Employee Details
+* [x] Admin can Update Employee Details
+* [x] Admin can Remove Employee Details
+* [x] Admin can search for an Employee Details using the Auto Random Generated Employee ID unique to all.
 
 ## Images
 
